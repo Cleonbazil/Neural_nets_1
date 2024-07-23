@@ -18,7 +18,7 @@
 
 
 **Collaborative filtering is a technique that can filter out items that a user might prefer on the basis of selections by similar users.
-In this case the selections of students with similar situation might give the prospective student an intution of what the best options are.
+In this case the selections of students with similar situation might give the prospective student an intution of what the best options are.**
 
 
 
@@ -27,5 +27,5 @@ In this case the selections of students with similar situation might give the pr
 **A good recommender system would pair the student with the most convinient loan. 
 Since the size of loan is paramount ascertaining the students financial/academic situatuion to determine which aid programms are available to reduce it is very important. This information varies greatly by location and applicant, making it an enormous task.**
 
-**Not to long ago there was extensive reporting on the predatory practices of institutions which issued student loans so some type of rating scale for them would be beneficial but will take a lot of leg work.
+**Not to long ago there was extensive reporting on the predatory practices of institutions which issued student loans so some type of rating scale for them would be beneficial but will take a lot of leg work.**
 
